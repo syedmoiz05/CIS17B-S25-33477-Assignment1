@@ -66,7 +66,7 @@ It’s designed as a console application and uses basic exception handling to pr
    - Shows your current balance on the screen.
 
 5. **Exit**  
-   - Closes the program with a simple goodbye message.
+   - Closes the program with a goodbye message.
 
 ---
 
